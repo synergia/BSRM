@@ -1,7 +1,7 @@
 #include <avr/io.h> 
 #include <avr/interrupt.h>
 #include <util/delay.h>
-#include "../lib/usart/usart.h"
+#include "lib/usart/usart.h"
 #include "motor.h"
 
 #define MY_ID 1
